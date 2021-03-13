@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hey! 👋🏻
 
-<!--
-**SpeedyLom/SpeedyLom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm SpeedyLom, I've been a full-time PHP developer since 2011 and I'm just starting to dip my toes into open-source collaboration.
 
-Here are some ideas to get you started:
+### 🚗 Daily driver
+The tools I'm most comfortable with and use most often.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![OS Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=Windows)
+![OS Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu)
+![IDE PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-000000?style=for-the-badge&logo=PhpStorm)
+![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
+![Terminal Windows Terminal](https://img.shields.io/badge/Terminal-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=Windows%20Terminal)
+![Shell Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash)
+![VCS Subversion](https://img.shields.io/badge/VCS-Subversion-809CC9?style=for-the-badge&logo=Subversion)
+![Language PHP](https://img.shields.io/badge/language-php-777BB4?style=for-the-badge&logo=php)
+![Database MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=MySQL)
+
+### 🌱 I’m currently learning
+New tools that I'm actively learning and getting to grips with.
+
+![VCS Git](https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=Git)
+![Language Javascript](https://img.shields.io/badge/Language-Javascript-F7DF1E?style=for-the-badge&logo=Javascript)
+![Framework Vue.js](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js)
+- Test-Driven Development/[PHPUnit](https://phpunit.de/)
+
+### 🔭 I’m currently working on
+- [SpeedyLom/WhenDoYouFinish](https://github.com/SpeedyLom/WhenDoYouFinish)
+- [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
+
+
+### 👯 I’m looking to collaborate on 
+- Anything where I can be helpful 😊
+- That has well written issues ✍🏻
+
+----
+- 💬 Ask me about collaborating with you!
+- 📫 Reach out to me on [![Twitter](https://img.shields.io/badge/Twitter-SpeedyLom-1DA1F2?style=social&logo=Twitter)](https://twitter.com/SpeedyLom)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact(s): I do an okay impersonation  of Gollum and I'm blessed with dyslexia
