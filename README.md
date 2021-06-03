@@ -12,19 +12,18 @@ The tools I'm most comfortable with and use most often.
 ![Terminal Windows Terminal](https://img.shields.io/badge/Terminal-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=Windows%20Terminal)
 ![Shell Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash)
 ![VCS Subversion](https://img.shields.io/badge/VCS-Subversion-809CC9?style=for-the-badge&logo=Subversion)
+![VCS Git](https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=Git)
 ![Language PHP](https://img.shields.io/badge/language-php-777BB4?style=for-the-badge&logo=php)
 ![Database MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=MySQL)
 
 ### 🌱 I’m currently learning
 New tools that I'm actively learning and getting to grips with.
 
-![VCS Git](https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=Git)
-![Language Javascript](https://img.shields.io/badge/Language-Javascript-F7DF1E?style=for-the-badge&logo=Javascript)
-![Framework Vue.js](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js)
+![Godot Game Engine](https://img.shields.io/badge/Game%20Engine-Godot-3e8ecc?style=for-the-badge&logo=Godot%20Engine)
 - Test-Driven Development/[PHPUnit](https://phpunit.de/)
 
 ### 🔭 I’m currently working on
-- [SpeedyLom/WhenDoYouFinish](https://github.com/SpeedyLom/WhenDoYouFinish)
+- [SpeedyLom/dislexic-vscode](https://github.com/SpeedyLom/dislexic-vscode)
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
 
 
