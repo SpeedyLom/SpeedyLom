@@ -20,11 +20,9 @@ The tools I'm most comfortable with and use most often.
 New tools that I'm actively learning and getting to grips with.
 
 - ![Godot Game Engine](https://img.shields.io/badge/Game%20Engine-Godot-3e8ecc?style=for-the-badge&logo=Godot%20Engine)
-- Test-Driven Development/[PHPUnit](https://phpunit.de/)
 
 ### 🔭 I’m currently working on
-- [SpeedyLom/dislexic-vscode](https://github.com/SpeedyLom/dislexic-vscode)
-- [SpeedyLom/WhenDoYouFinish](https://github.com/SpeedyLom/WhenDoYouFinish)
+- My first game!
 
 
 ### 👯 I’m looking to collaborate on 
