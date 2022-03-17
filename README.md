@@ -32,5 +32,5 @@ New tools that I'm actively learning and getting to grips with.
 ----
 - 💬 Ask me about collaborating with you!
 - 📫 Reach out to me on [![Twitter](https://img.shields.io/badge/Twitter-SpeedyLom-1DA1F2?style=social&logo=Twitter)](https://twitter.com/SpeedyLom)
--  [Ko-fi](https://ko-fi.com/speedylom)
+- 💰 Support me on [Ko-fi](https://ko-fi.com/speedylom)
 - ⚡ Fun fact(s): I do an okay impersonation  of Gollum and I'm blessed with dyslexia
