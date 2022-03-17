@@ -22,7 +22,7 @@ New tools that I'm actively learning and getting to grips with.
 - ![Godot Game Engine](https://img.shields.io/badge/Game%20Engine-Godot-3e8ecc?style=for-the-badge&logo=Godot%20Engine)
 
 ### 🔭 I’m currently working on
-- My first game!
+- [Hueorph](https://github.com/SpeedyLom/hueorph)
 
 
 ### 👯 I’m looking to collaborate on 
@@ -32,5 +32,5 @@ New tools that I'm actively learning and getting to grips with.
 ----
 - 💬 Ask me about collaborating with you!
 - 📫 Reach out to me on [![Twitter](https://img.shields.io/badge/Twitter-SpeedyLom-1DA1F2?style=social&logo=Twitter)](https://twitter.com/SpeedyLom)
-- 😄 Pronouns: He/Him
+-  [Ko-fi](https://ko-fi.com/speedylom)
 - ⚡ Fun fact(s): I do an okay impersonation  of Gollum and I'm blessed with dyslexia
