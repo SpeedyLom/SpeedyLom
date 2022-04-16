@@ -1,6 +1,10 @@
 ## Hey! 👋🏻
 
-I'm SpeedyLom, I've been a full-time PHP developer since 2011 and I'm just starting to dip my toes into open-source collaboration.
+I'm SpeedyLom, I've been a full-time PHP developer since 2011 and I'm currently working on my first game.
+
+### 💾 Active Projects
+- [dislexic VS Code Theme](https://marketplace.visualstudio.com/items?itemName=SpeedyLom.dislexic-vscode)
+
 
 ### 🚗 Daily driver
 The tools I'm most comfortable with and use most often.
@@ -22,7 +26,7 @@ New tools that I'm actively learning and getting to grips with.
 - ![Godot Game Engine](https://img.shields.io/badge/Game%20Engine-Godot-3e8ecc?style=for-the-badge&logo=Godot%20Engine)
 
 ### 🔭 I’m currently working on
-- [Hueorph](https://github.com/SpeedyLom/hueorph)
+- My first commerical game (news to follow when I have something to show)
 
 
 ### 👯 I’m looking to collaborate on 
@@ -32,5 +36,6 @@ New tools that I'm actively learning and getting to grips with.
 ----
 - 💬 Ask me about collaborating with you!
 - 📫 Reach out to me on [![Twitter](https://img.shields.io/badge/Twitter-SpeedyLom-1DA1F2?style=social&logo=Twitter)](https://twitter.com/SpeedyLom)
-- 💰 Support me on [Ko-fi](https://ko-fi.com/speedylom)
 - ⚡ Fun fact(s): I do an okay impersonation  of Gollum and I'm blessed with dyslexia
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R877040)
